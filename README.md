@@ -97,11 +97,7 @@ sudo apt-get install ./*.deb -y
 
 ## Donate 
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="S7WAC4BVRUAFJ" />
-<input type="image" src="https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_PL/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<a href="https://www.paypal.com/donate?hosted_button_id=S7WAC4BVRUAFJ" style="text-decoration:none;"><span class="paypal-logo" style="font-family: Verdana, Tahoma; font-weight: bold; font-size: 28px;"><i style="color: #000; text-shadow: 1px 1px 1px #fff;">Donate </i><i style="color: #253b80; text-shadow: 1px 1px 1px #fff;">Pay</i><i style="color: #179bd7; text-shadow: 1px 1px 1px #fff;">Pal</i></span></a>
 
 ## License
 
