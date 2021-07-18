@@ -6,6 +6,10 @@ How to install Cutefish Desktop in Ubuntu?
 
 The goal is to create a better experience Linux desktop OS.
 
+## Download Cutefish Ubuntu
+<a href="https://cutefish-ubuntu.github.io/download/"><img src="https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/56ab1c3e082e6a41441b6f58138b9498ed2bf640/images/Download.svg" alt="" width="150" height="38" /></a>
+[Cutefish built on Ubuntu](https://cutefish-ubuntu.github.io/download/)
+
 ## Dependencies
 
 ```sh
@@ -96,10 +100,6 @@ sudo apt-get install ./*.deb -y
 # git clone https://github.com/cutefishos/icons
 # cd icons
 ```
-
-## Download Cutefish Ubuntu
-
-[Cutefish built on Ubuntu](https://cutefish-ubuntu.github.io/download/)
 
 ## Donate 
 
