@@ -1,6 +1,8 @@
-# Cutefish DE Ubuntu
+# Cutefish Desktop Ubuntu
 
 How to install Cutefish Desktop in Ubuntu? 
+
+![enter image description here](https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/laptop.890198af.png)
 
 The goal is to create a better experience Linux desktop OS.
 
