@@ -95,6 +95,10 @@ sudo apt-get install ./*.deb -y
 # cd icons
 ```
 
+## Download Cutefish Ubuntu
+
+[Cutefish built on Ubuntu](https://cutefish-ubuntu.github.io/download/)
+
 ## Donate 
 
 <a href="https://www.paypal.com/donate?hosted_button_id=S7WAC4BVRUAFJ" style="text-decoration:none;"><span class="paypal-logo" style="font-family: Verdana, Tahoma; font-weight: bold; font-size: 28px;"><i style="color: #000; text-shadow: 1px 1px 1px #fff;">Donate </i><i style="color: #253b80; text-shadow: 1px 1px 1px #fff;">Pay</i><i style="color: #179bd7; text-shadow: 1px 1px 1px #fff;">Pal</i></span></a>
